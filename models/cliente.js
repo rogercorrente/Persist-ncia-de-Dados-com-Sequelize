@@ -29,4 +29,4 @@ const Cliente = database.define('cliente', {
     allowNull: false
   }
 })
-module_exports = Cliente
+module.exports = Cliente
